@@ -29,7 +29,7 @@ List the synonyms to needed to transform one word to another.
 blackguard,guy
 ```
 
-### Libaray
+### Libray
 
 ```python
 from ThesaurusDistance import thesaurus_distance
